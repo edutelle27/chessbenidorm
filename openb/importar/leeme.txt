@@ -1,0 +1,7 @@
+Para importar clasificación final, se copia el fichero excel final aquí.
+Se abre con libreoffice calc --> guardar como -- tipo .csv separado con ;
+Se almacena archivo nombre: fintorneo.csv
+
+--------------------------
+He modificado el nombre de forma que fintorneoOriginal es la clasificación final real que se produjo en el open 2023.
+fintorneo.csv ahora representa el fichero .csv modificado para el reto proviene de clasiReto

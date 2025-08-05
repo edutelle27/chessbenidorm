@@ -1,0 +1,4 @@
+Resolver imprimir listados --- actualmente hay 2 ficheros que crean el pdf
+-- premiospdf2000.php
+-- premiospdf2.php
+-- No borrar nada en este directorio
