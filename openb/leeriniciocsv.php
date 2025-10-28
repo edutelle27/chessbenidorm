@@ -12,7 +12,7 @@
   	  $fila=5;
   	  if (($gestor = fopen("./importar/iniciotorneo.csv","r")) !== FALSE) {
 
-  	  while (($datos=fgetcsv($gestor,1000,","))!== FALSE) {
+  	  while (($datos=fgetcsv($gestor,1000,";"))!== FALSE) {
         $numero=count($datos);
         echo "<p> $numero de campo en la fila: $fila <br /></p> \n";
       
