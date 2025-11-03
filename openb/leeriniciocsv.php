@@ -31,7 +31,7 @@
         $fila++;
                 
         for ($i=0;$i<$numero;$i++) { 
-          $alojado='N';
+          
            echo "Indice: $i ".$datos[$i]."<br />\n";
            if ($i==$ind_ranking)
               { $ranking=$datos[$i];}
@@ -45,14 +45,16 @@
               { $club=$datos[$i];}
               //modifico esta parte ya que el árbitro ha introducido 
               // datos en la columna info - CV ; H; CVH
-            if($i==$ind_info)
-                { echo "Indice: $i ".$datos[$i]."<br />\n";
-                  if (($datos[$i]=="H") or ($datos[$i]=="PH")) $alojado='S';
-                  if  (($datos[$i]=="CV") or ($datos[$i]=="PCV")) $club="VAL";
-                  if (($datos[$i]=="HCV") or ($datos[$i]=="PHCV")){$club="VAL";$alojado='S';
-                  }
-
-               } // if
+           if ($i==$ind_info)
+               {   echo "Indice: $i ".$datos[$i]."<br />\n";
+                   $alojado='N';
+                   // me curo en salud hay clubs que valen VAL
+                   // pero no son de Valencia
+               if ($club=="VAL") $club="XXX";
+               if  (strpos($datos[$i],'H')== true) $alojado='S';
+               if  (strpos($datos[$i],'CV')== true) $club="VAL";
+               }
+               
           } // cierro for 
            
            if ($fila>=7 and is_numeric($ranking)) {
