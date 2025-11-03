@@ -1,82 +1,98 @@
-BENIDORM CHESS OPEN A 2024,,,,,,,
-"Benidorm (Alicante), 2024-10-27 - 2024-11-03",,,,,,,
-,,,,,,,
-Ranking inicial   ,,,,,,,
-Ran.,Tít.,Nombre,Fed.,FIDE,FIDE ID,Origen/Club,Info
-1,IM,"Shuvalova, Polina",FID,2472,24171760,,PH
-2,IM,"Medarde Santiago, Luis Marcos",ESP,2435,2263076,,PH
-3,IM,"Merario Alarcon, Andres",ESP,2408,24522767,Málaga,PH
-4,IM,"Ynojosa Aponte, Felix Jose",VEN,2387,3900258,,PCV
-5,IM,"Sofronie, Iulian",ROU,2365,1202936,Rumanía,H
-6,FM,"Garcia Fernandez, Victor",ESP,2353,54536820,Málaga,PH
-7,IM,"Teran Alvarez, Ismael",ESP,2329,2204177,,PH
-8,FM,"Diaz Velandia, Jose Manuel",VEN,2329,3901939,Gambito-Benimaclet,PCV
-9,FM,"Van der Hagen, Loek",NED,2322,1052853,Holanda,PH
-10,FM,"Medhus, Vitus Bondo",DEN,2297,1462547,Dinamarca,PH
-11,FM,"Torres Sanchez, Jose",ESP,2284,2217210,Valencia,HCV
-12,FM,"Mingarro Carceller, Sergi",ESP,2273,2246678,Vila-real,CV
-13,FM,"Ibanez Aullana, Ramon",ESP,2270,2207532,Valencia,PHCV
-14,FM,"Ghannoum, Marc",CAN,2262,2601273,Canadá,PH
-15,FM,"Redzisz, Michal",POL,2259,21816107,Polonia,PH
-16,CM,"De La Puerta Cresis, Javier",ESP,2246,2227401,La Didáctica,PH
-17,CM,"Pedchenko Bondar, Alexandr",ESP,2200,24522732,,H
-18,CM,"Shearsby, Jude",ENG,2192,462527,Reino Unido,PH
-19,,"Bas Mas, Miguel",ESP,2186,2237954,Xeraco,PCV
-20,,"Thuesen, Mogens",DEN,2174,1400878,Dinamarca,PH
-21,,"Maldonado Mena, German",ESP,2173,24516422,Málaga,P
-22,WIM,"Yu, Ting",CHN,2170,3403963,China,H
-23,FM,"Nava Pereda, Carlos",ESP,2166,2207419,Conteneo,PH
-24,,"Jordan Martinez, Miguel",ESP,2163,2283972,CM Castellón,PCV
-25,CM,"Bremner, Adam",SCO,2162,2400847,Reino Unido,PH
-26,,"Mitchell, Martin",SCO,2160,2400634,Reino Unido,PH
-27,,"Floris, Federico",ITA,2157,898287,Italia,PH
-28,IM,"Rodriguez Lopez, Rafael",ESP,2150,2204495,,PH
-29,,"Rosol, Philip",POL,2150,1664905,Polonia,P
-30,,"Blanco Sanjuan, Jorge",ESP,2144,2213966,,P
-31,,"Jordan Martinez, David",ESP,2139,2283964,CM Castellón,PCV
-32,,"Tsiapko, Andrii",POL,2139,34105298,,PH
-33,,"Khoo-Thwe, Louis",NOR,2124,1538756,Noruega,PH
-34,,"Gonzalez Gonzalez, Alfonso",ESP,2122,2223007,CA Algeciras,PH
-35,CM,"Portero Rubio, Martin",ESP,2117,24548448,,PH
-36,,"Horcajada Reales, Guillermo",ESP,2116,2221470,Cudillero,PH
-37,,"Palomo Teruel, Xavier",ESP,2113,2202999,,H
-38,,"Van Dam, Niels",NED,2109,1012762,Holanda,PH
-39,,"Nettleton, Charlie B",ENG,2104,419710,Reino Unido,PH
-40,,"Munoz Osete, Marcos",ESP,2099,54542987,La Vila,PCV
-41,FM,"Delaney, John",IRL,2098,2500060,Irlanda,PH
-42,,"Sanchez Barbado, Carlos",ESP,2098,2273012,,PCV
-43,,"Wang, Hao(ZJ)",CHN,2095,8631859,China,PH
-44,,"Nadal Fajardo, Ricard",ESP,2081,32031548,Barcelona,PH
-45,,"Jankowiak, Piotr",POL,2074,1185250,Polonia,PH
-46,,"Lopez Pereyra, Antonio",ESP,2058,2227126,,H
-47,,"Bascunana Sanchez, Pablo",ESP,2027,54701031,ASSSA Enric Valor,PCV
-48,,"Sukhodolskyi, Oleksii",UKR,2023,34147586,Ucrania,PH
-49,,"Gonzalez Aguirre, Luis",ESP,2016,2202000,Ateneo Marítimo,PHCV
-50,,"Planas Gene, Juan",ESP,2013,2203103,Palma de Mallorca,PH
-51,,"Avetisyan, Ani",ARM,2010,13319035,Armenia,PH
-52,,"Gonzalez Lopez, Lucas I",ESP,2008,54766907,EDAPA,PCV
-53,,"Martinez Herranz, Francisco Jose",ESP,2000,24598143,Almansa,PH
-54,,"Beneyto De Ramon, Guillermo",ESP,1993,54533244,CD Basilio,PCV
-55,CM,"Sofronie, Vladimir",ROU,1991,1296671,Rumanía,H
-56,,"Nguyen, Khoi",BEL,1985,272540,Bélgica,PH
-57,,"Khassenov, Mansur",KAZ,1982,13768700,Kazajstán,P
-58,CM,"Sakulski, Bernard",ESP,1970,2278677,A Coruña,P
-59,,"Gimeno Simo, Sergio",ESP,1957,22293965,Vila-real,PCV
-60,,"Bukharkov, Stepan",RUS,1951,34346643,Rusia,P
-61,,"Rutherford, William",SCO,1950,2401045,Reino Unido,PH
-62,FM,"Huguet, Sergio",HON,1948,2212552,Honduras,PH
-63,,"Zhang, Junyi",ENG,1946,494437,Reino Unido,PH
-64,WCM,Charvi A,IND,1944,25165518,India,P
-65,,"Yang, Sung-Jui",TPE,1882,16301048,Taiwán,PH
-66,,"Coll, Julien",FRA,1880,651013924,Francia,P
-67,,"Gersemann, Karl",GER,1846,34602186,Alemania,PH
-68,,"Tetova, Amir",NED,1837,1095838,Holanda,P
-69,,"Gerona Maura, Jesus",ESP,1836,2271303,Alzira,PHCV
-70,,"Valera Munoz, Miguel A.",ESP,1834,2292491,Murcia,PH
-71,,"Hu, Junyan",ENG,1828,343401260,Reino Unido,PH
-72,,"Ding, Yiwen",ENG,1784,495980,Reino Unido,PH
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-BENIDORM CHESS OPEN A 2024 - https://info64.org/benidorm-chess-open-a-2024,,,,,,,
+BENIDORM CHESS OPEN A 2025;;;;;;;
+Benidorm (Alicante), 2025-10-26 - 2025-11-02;;;;;;;
+;;;;;;;
+Ranking inicial;;;;;;;
+Ran.;Tít.;Nombre;Fed.;FIDE;FIDE ID;Origen/Club;Info
+1;IM;Medarde Santiago, Luis Marcos;ESP;2436;2263076;Padrón;PH
+2;IM;Lumachi, Gabriele;ITA;2430;2817247;Italia;P
+3;IM;Favaloro, Andrea;ITA;2406;885940;Italia;P
+4;FM;Ezra Paul Chambers;BDI;2362;20300204;Burundi;F-PH
+5;IM;Hernandez, Cristian Andres;COL;2355;4402308;Colombia;F-P*
+6;IM;Sofronie, Iulian;ROU;2349;1202936;Rumanía;PH
+7;FM;Manukyan, Sargis A.;ARM;2322;13303970;Armenia;P
+8;FM;Rey Martinez, Jaime;ESP;2317;54549264;Madrid;P
+9;CM;Felix, Raphael;RSA;2290;14339544;Sudáfrica;P
+10;FM;Mingarro Carceller, Sergi;ESP;2282;2246678;Vila-real;PCV
+11;IM;Tsyhanchuk, Stanislav;BLR;2274;13505130;;PH
+12;FM;Serarols Mabras, Bernat;ESP;2264;2238276;Andreu Paterna;P*CV
+13;FM;Redzisz, Michal;POL;2254;21816107;Polonia;PH
+14;;Delfino, Luigi;ITA;2249;809993;Italia;PH
+15;FM;Sanchez Saez, Francisco;ESP;2241;2231743;EVA Manises;PHCV
+16;FM;Sofronie, Vladimir;ROU;2236;1296671;Rumanía;PH
+17;;Gomez Sanjuan, Hector Fernando;ESP;2235;22274960;Alcoy;PH
+18;WFM;Rodriguez Redondo, Adhara;ESP;2208;32065698;Beniaján;PH
+19;FM;Gomez Anadon, Daniel;AND;2198;2218151;Andorra;PH
+20;;Gruenter, Martin;GER;2194;24640352;Alemania;P
+21;;Atienza Alvarez, Javier;ESP;2185;24511668;Alcoy;PHCV
+22;IM;Mannion, Stephen R;SCO;2178;2400111;Escocia;PH
+23;FM;Rey Malde, Henrique;ESP;2174;2244969;Ourense;P
+24;WFM;Jimenez Fernandez, Rebeca;ESP;2163;32070934;Zarandona;PH
+25;IM;Meszaros, Andras;HUN;2150;700720;Hungría;PH
+26;;Cubillo Munoz, Miguel;ESP;2147;22221093;Madrid;PH
+27;;Torosyan Saghatelyan, Arturo;ESP;2140;54747910;Mislata;F-P
+28;FM;Delaney, John;IRL;2137;2500060;Irlanda;PH
+29;;Palomo Teruel, Xavier;ESP;2137;2202999;Cataluña;H
+30;FM;Tonndorf, Matthias;GER;2133;4682033;Alemania;PH
+31;;Bercaru, Vlad Ionut;ESP;2131;54579546;Monteolivete;PCV
+32;IM;Stachanczyk, Jacek;POL;2129;1116657;PZSZACH;PH
+33;;Boyer Censore, Giuseppe Enmanuel;VEN;2127;3909085;Venezuela;PH
+34;;Nicolas Zapata, Javier;ESP;2124;22247289;Raspeig;F-PCV
+35;;Ramirez Maillo, Cristian;ESP;2112;32018746;Las Palmas;PH
+36;;Farkash, Denys;UKR;2111;34178449;Ucrania;PH
+37;;Bukharkov, Stepan;RUS;2108;34346643;Xàbia;PCV
+38;;Soriano Maya, Juan Pablo;ESP;2106;2207540;FACV;PHCV
+39;;Albin Sajan;IND;2101;25198866;India;P
+40;;Deusa Ballesteros, Lucas;ESP;2101;54535964;Alaquàs;PHCV
+41;;Martinez Cardenas, Sebastian Hor;VEN;2099;3908453;Venezuela;M-P
+42;;Jankowiak, Piotr;POL;2093;1185250;Polonia;P
+43;;Segarra Victorio, Israel;ESP;2086;54788633;Ateneu Elx;PCV
+44;;Horcajada Reales, Guillermo;ESP;2084;2221470;Asturias;PH
+45;WFM;Sunea, Sara Maria;ROU;2083;1288989;Rumanía;P
+46;;Munoz Osete, Marcos;ESP;2075;54542987;La Vila;PCV
+47;;Draghici Flutur, Gavril;ESP;2074;1206508;ONCE;P*H
+48;;Sanchez Barbado, Carlos;ESP;2063;2273012;La Vila;F-P
+49;;Koenig, Christian;GER;2061;4656997;Alemania;PH
+50;;Racis, Michal;POL;2060;21886717;PZSZACH;P*H
+51;;Salvador Cabo, Cesar;ESP;2059;2240416;Madrid;F-P
+52;;Blanco Sanjuan, Jorge;ESP;2056;2213966;Madrid;P
+53;;Abel Sajan;IND;2046;25198874;India;P
+54;;Sendra Tormo, Juan;ESP;2026;32049072;FACV;PHCV
+55;CM;Sakulski, Bernard;ESP;2018;2278677;Galicia;PH
+56;;Martin Rodriguez, Emilio;ESP;2018;2207915;Villaverde;PH
+57;CM;Fernandez Manrique, Agustin;ESP;2013;2231000;ONCE;P*H
+58;;Ambru, Dan-Calin;ROU;2007;1223160;CS Atlas Sah;PH
+59;;Martinez Gonzalez, Miguel A.;ESP;2004;32015631;CD En Jaque;F-P
+60;;Nechifor, David;ESP;2002;54788455;La Vila;PCV
+61;;Martin Martin, Luis Vicente;ESP;2000;2220300;Madrid;PH
+62;;Peng, Tianlu;CHN;1990;8605220;China;M-PH
+63;;Jess Ruchandani;IND;1967;25974300;India;P
+64;;Munoz Suarez, Luis Alberto;ESP;1964;2287820;Zaragoza;PH
+65;;Ramirez Maillo, Juan Adonay;ESP;1963;22299459;Telde;P
+66;;Bara, Jan;CZE;1962;23716150;República Checa;P
+67;;Olivera Gutierrez, Albert;ESP;1953;2230070;ONCE;P*H
+68;;Troffiguer, Olivier;FRA;1950;607835;Francia;PH
+69;;Zanoletty Garcia, David;ESP;1934;2219743;ONCE;P*H
+70;;O`Neill Y Daneiko, Jose Antonio;ESP;1924;2237733;Gambito-Benimaclet;P*HCV
+71;;Paarshva Parmar;IND;1922;33440344;India;PH
+72;;Fox, Anthony;IRL;1921;2500736;Irlanda;PH
+73;CM;Safin Safarullakhan;UAE;1915;33379475;India;PH
+74;;Rustan, Elias Buschmann;NOR;1907;1541030;Noruega;PH
+75;;Siddharth, Sai;SGP;1905;5823404;Singapur;PH
+76;;Cafolla, Peter;IRL;1902;2500884;Irlanda;M-PCV
+77;;Williams, Duncan;WLS;1897;1805592;Gales;PH
+78;;Marquinez Cabrejas, Francisco J.;ESP;1894;2209721;País Vasco;P*
+79;;Migala, Andrzej;POL;1892;1119052;PZSZACH;P*H
+80;;Witter, Jannes;GER;1881;16246950;Alemania;P*H
+81;;Borecky, Andrej;CZE;1858;23752670;República Checa;P
+82;;Dudarec, Elias;CZE;1846;23714930;República Checa;P
+83;WCM;Yasaswi Krishna Bommi;IND;1844;33368783;India;P
+84;;Stuhaug, Raphael Iglesisas;NOR;1839;1555375;Noruega;PH
+85;;Basualdo De Ornelas, Jorge;POR;1826;1935364;Las Palmas;PH
+86;;Gawle, Ireneusz;POL;1823;1157329;Polonia;F-PH
+87;;Lukasiewicz, Ignacy;POL;1812;91105889;PZSZACH;P*H
+88;;Vollheim, Daniel O;NOR;1808;1569520;Noruega;PH
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+BENIDORM CHESS OPEN A 2025 - https://info64.org/benidorm-chess-open-a-2025;;;;;;;

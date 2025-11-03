@@ -46,26 +46,32 @@
               // En este open a diferencia del B en info se guarda
               // el texto: Comunidad Valenciana
             if ($i==$ind_info)
+               {   echo "Indice: $i ".$datos[$i]."<br />\n";
+                   $alojado='N';
+               if  (strpos($datos[$i],'H')== true) $alojado='S';
+               if  (strpos($datos[$i],'CV')== true) $club="VAL";
+               } 
+               /* original
             { echo "Indice: $i ".$datos[$i]."<br />\n";
                if (($datos[$i]=="H") or ($datos[$i]=="PH")) $alojado='S';
                if  (($datos[$i]=="CV") or ($datos[$i]=="PCV")) $club="VAL";
-               if (($datos[$i]=="HCV") or ($datos[$i]=="PHCV")){$club="VAL";$alojado='S';}}
-          } // cierro for 
-           
+               if (($datos[$i]=="HCV") or ($datos[$i]=="PHCV")){$club="VAL";$alojado='S';}} fin original
+               */
+
+               } // cierro for if ($i==$ind_info)
+            
            if ($fila>=7 and is_numeric($ranking)) {
              $player = new jugador();  
-             $player->add_jugador($idfide,$nombre,$elo,$club,'S',$ranking);
+             $player->add_jugador($idfide,$nombre,$elo,$club,$alojado,$ranking);
             } // if
 
-          } // while
+         
+         } //While
 
   	    fclose($gestor);
   	    echo "Total de jugadores:".$player->num_jugadores();
-  	  }  //if 
+      } // fin del if
+   
    ?>
-
-
-
-
-  </body>
+</body>
  </hmtl> 	 
