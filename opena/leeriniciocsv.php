@@ -48,6 +48,9 @@
             if ($i==$ind_info)
                {   echo "Indice: $i ".$datos[$i]."<br />\n";
                    $alojado='N';
+                   // me curo en salud hay clubs que valeb¡n VAL
+                   // pero no son de Valencia
+                   if ($club=="VAL") $club="XXX";
                if  (strpos($datos[$i],'H')== true) $alojado='S';
                if  (strpos($datos[$i],'CV')== true) $club="VAL";
                } 
